@@ -1,0 +1,3 @@
+[submodule "npuzzle"]
+	path = npuzzle
+	url = https://github.com/dtreiter/npuzzle.git
