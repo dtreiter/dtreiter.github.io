@@ -1,3 +1,6 @@
 [submodule "npuzzle"]
 	path = npuzzle
 	url = https://github.com/dtreiter/npuzzle.git
+[submodule "sandtimer"]
+	path = sandtimer
+	url = https://github.com/dtreiter/sandtimer.git
